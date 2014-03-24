@@ -13,7 +13,6 @@ set tabpagemax=15
 
 nmap t <Esc>:TlistToggle<CR>
 map <C-t> <Esc>:tabnew<CR>
-map <C-w> <Esc>:close<CR>
 
 map <A-j> <Esc>gT
 map <A-k> <Esc>gt
