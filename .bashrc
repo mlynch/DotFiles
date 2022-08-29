@@ -107,3 +107,5 @@ export PATH=$PATH:/usr/local/bin
 
 ### Added by the Heroku Toolbelt
 export PATH="/usr/local/heroku/bin:$PATH"
+
+export BASH_SILENCE_DEPRECATION_WARNING=1
